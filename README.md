@@ -19,7 +19,7 @@ Example:
 http://192.168.1.12:9283
 
 🔧 Installation
-Copy the hifirose_rs520 folder into your Home Assistant /config/custom_components/ directory.
+Copy the hifirose_rs520 folder into your Home Assistant /config/custom_components/hifirose_rs520/ directory.
 Restart Home Assistant.
 Navigate to Settings → Devices & Services → Add Integration.
 Search for HiFi Rose RS520 and enter the static IP address of your amplifier.
@@ -59,7 +59,7 @@ Példa:
 http://192.168.1.12:9283
 
 🔧 Telepítés
-Másold a hifirose_rs520 mappát a Home Assistant /config/custom_components/ könyvtárába.
+Másold a hifirose_rs520 mappát a Home Assistant /config/custom_components/hifirose_rs520/ könyvtárába.
 Indítsd újra a Home Assistantot.
 Lépj a Beállítások → Eszközök és Szolgáltatások → Új integráció hozzáadása menüpontra.
 Keresd meg a HiFi Rose RS520-at, és add meg az erősítő fix IP-címét.
