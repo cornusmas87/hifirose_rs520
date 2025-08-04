@@ -1,0 +1,11 @@
+{
+  "domain": "hifirose_rs520",
+  "name": "HifiRose RS520",
+  "version": "1.0.0",
+  "config_flow": true,
+  "documentation": "https://example.com",
+  "requirements": ["requests"],
+  "dependencies": [],
+  "codeowners": ["@yourgithub"],
+  "device_automation": true
+}
